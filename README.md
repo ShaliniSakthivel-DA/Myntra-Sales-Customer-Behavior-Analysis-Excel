@@ -68,6 +68,8 @@ The objective of this project is to analyze product distribution, brand performa
 
 • Higher-priced products tend to have larger discounts
 
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/7bdd1d3d-1ef5-4d26-9f0c-590462cfbebb" />
+
 # Conclusion:
 
 The analysis shows strong demand in women’s fashion, especially Western wear.
