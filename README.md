@@ -70,7 +70,7 @@ The objective of this project is to analyze product distribution, brand performa
 
 •  Lifestyle Indicators: Increased screen time is associated with higher stress levels and noticeable academic impact.
 
-**2. Diagnostic Analysis**
+**2. Diagnostic Analysis:**
 
 •  Consistent screen time across demographics suggests smartphone usage is driven more by behavioral habits than age or gender differences.
 
