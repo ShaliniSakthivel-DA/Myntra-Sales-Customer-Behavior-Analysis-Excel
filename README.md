@@ -56,45 +56,47 @@ The objective of this project is to analyze product distribution, brand performa
 
 # Key Insights:
 
-**1. Descriptive Analysis:**   
+**1. Descriptive Analysis:**
 
-•  Screen Time Patterns: Average daily screen time is ~12.8 hours, consistent across genders and academic work responses, indicating minimal demographic variation.
+•  Gender Dominance: Women’s categories show stronger representation (105.5%) compared to men (91.45%), with Western wear leading overall.
 
-•  Age Trends: Users aged 21, 26, 29, and 35 show slightly higher screen time, but overall usage remains stable (~7.5 hours) across ages 18–35.
+•  Category Leaders: Western wear (1,648), Topwear (878), and Indian wear (738) dominate the product mix.
 
-•  Usage Segmentation: Majority of users fall under Medium Usage (~4,133), followed by High Usage (~2,794), while Low Usage (~573) is significantly lower.
+•  Brand Concentration: Roadster leads significantly (982 products), followed by Mast & Harbour and HERE&NOW.
 
-•  Addiction Severity: Most users fall into Moderate (2,874) and Severe (2,434) categories, compared to Mild (1,373) and None (819).
+•  Customer Satisfaction: Ratings are consistently high (~4.5–4.6), with Espresso and River of Design Jeans slightly higher at 4.6.
 
-•  Sleep Behavior: Average sleep duration is ~6.7 hours, with a range of 4.5 to 9 hours.
+•  Size Availability: Standard sizes (S–XL/XXL, XS–XXL) dominate (~2,700 products), while numeric and one-size options are limited.
 
-•  Lifestyle Indicators: Increased screen time is associated with higher stress levels and noticeable academic impact.
+•  Pricing & Discounts: Average original prices rise with higher discount brackets, reaching ₹4,000–₹7,000 at 76–85% discounts. The overall mean price is ₹1,688.
 
 **2. Diagnostic Analysis:**
 
-•  Consistent screen time across demographics suggests smartphone usage is driven more by behavioral habits than age or gender differences.
+•  Higher representation in women’s categories indicates greater product variety and demand in women’s fashion, especially in Western wear.
 
-•  Higher usage in certain age groups may be linked to career pressure, social media engagement, and digital dependency.
+•  Category dominance suggests consumer preference toward versatile and everyday wear, particularly Western and Topwear segments.
 
-•  The dominance of medium and high usage segments indicates habitual usage patterns gradually shifting toward overuse.
+•  Roadster’s strong presence reflects brand strategy focused on high-volume listings and affordability, increasing visibility.
 
-•  High Moderate and Severe addiction levels point to lack of screen-time regulation and increased reliance on mobile devices for daily activities.
+•  Consistently high ratings indicate stable product quality and customer satisfaction across brands.
 
-•  Reduced sleep duration is likely caused by late-night usage, blue light exposure, and continuous engagement with digital platforms.
+•  Dominance of standard sizes shows inventory optimization based on majority customer demand, minimizing unsold stock risk.
 
-•  The correlation between screen time, stress, and academic impact suggests digital overload affecting mental well-being and productivity.
+•  Higher discounts on premium-priced items suggest a pricing strategy to drive sales volume and clear high-value inventory.
 
 **3. Predictive Insights:**   
 
-•  Smartphone usage is likely to remain high or increase further, especially with growing digital integration in education and work.
+•  Women’s segment is likely to continue dominating, with further expansion in Western wear categories.
 
-•  Moderate users may gradually shift toward severe addiction levels if no behavioral interventions are introduced.
+•  Top brands like Roadster may maintain leadership, but competition could increase with new entrants and private labels.
 
-•  Sleep quality may continue to decline, leading to long-term health and productivity issues.
+•  High-rated products are expected to sustain customer loyalty and repeat purchases.
 
-•  Stress levels and academic/work impact are expected to increase alongside screen dependency.
+•  Standard sizing will remain dominant, though inclusive sizing trends may gradually increase.
 
-•  Awareness, digital well-being tools, and usage control strategies could reduce addiction severity and improve lifestyle balance.
+•  Discount-driven strategies will continue, especially for premium products, to boost conversions and manage inventory turnover.
+
+•  Overall, the market is expected to see growth in affordable fashion with strong discount-driven purchasing behavior.
 
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/7bdd1d3d-1ef5-4d26-9f0c-590462cfbebb" />
 
